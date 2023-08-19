@@ -1,8 +1,21 @@
-- 👋 Hi, I’m @AnshumanRoy
-- 👀 I’m interested in Machine Learning, Data Science, and Neural Networks
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on projects related to computer vision and NLP
-- 📫 How to reach me anshumanroy1707@gmail.com
+# Welcome to My GitHub Profile
+
+Hello, I'm Anshuman Roy 👋
+
+I'm passionate about **data science**, **generative AI** and **web development** and enjoy working on up and coming technologies and projects. Here you'll find some of my work and contributions.
+
+## About Me
+
+- 🌍 Location: **New Delhi, India**
+- 💼 Current Position: **Tech Intern**
+- 🌱 I'm currently learning: **Frontend Web Development using React.js**
+- 💬 Ask me about: **Django**, **Generative AI**, **Machine Learning**, **Data Science**
+- 📫 How to reach me: Mail me at anshumanroy1707@gmail.com
+
+
+Feel free to explore my repositories for many interesting projects.
+
+Thank you for visiting my GitHub profile! 🚀
 
 <!---
 AnshumanRoy/AnshumanRoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
