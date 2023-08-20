@@ -10,10 +10,10 @@ I'm passionate about **data science**, **generative AI** and **web development**
 - 💼 Current Position: **Tech Intern**
 - 🌱 I'm currently learning: **Frontend Web Development using React.js**
 - 💬 Ask me about: **Django**, **Generative AI**, **Machine Learning**, **Data Science**
-- 📫 How to reach me: Mail me at anshumanroy1707@gmail.com
+- 📫 How to reach me: Mail me at anshumanroy1707@gmail.com or find me on twitter at https://twitter.com/ErroristUrban
 
 
-Feel free to explore my repositories for many interesting projects.
+Feel free to explore my repositories for many interesting projects. Feedback and constructive criticism is always welcome. 
 
 Thank you for visiting my GitHub profile! 🚀
 
