@@ -7,7 +7,7 @@ I'm passionate about **data science** and **generative AI** and enjoy working on
 ## About Me
 
 - 🌍 Location: **Noida, India**
-- 💼 Current Position: **Trainee Data Scientist**
+- 💼 Current Position: **Associate Software Engineer**
 - 💬 Ask me about: **Generative AI**, **Machine Learning**, **Data Science**
 - 📫 How to reach me: Mail me at [anshumanroy1707@gmail.com](url)
 
